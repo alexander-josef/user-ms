@@ -10,3 +10,4 @@ aggregated.log
 gce.json
 .env.prod
 Dockerfile.bak
+.DS_Store
