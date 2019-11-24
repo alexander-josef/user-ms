@@ -4,7 +4,7 @@ info:
   description: User Microservice
   title: User Microservice
   version: 1.0.0
-host: user-ms-227100.appspot.com
+host: user-ms-259919.appspot.com
 # [END swagger]
 consumes:
   - application/json
